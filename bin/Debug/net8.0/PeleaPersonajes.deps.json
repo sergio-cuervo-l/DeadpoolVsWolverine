@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PeleaPersonajes/1.0.0": {
+        "runtime": {
+          "PeleaPersonajes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeleaPersonajes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

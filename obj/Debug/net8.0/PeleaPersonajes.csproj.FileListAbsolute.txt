@@ -1,0 +1,14 @@
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\bin\Debug\net8.0\PeleaPersonajes.exe
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\bin\Debug\net8.0\PeleaPersonajes.deps.json
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\bin\Debug\net8.0\PeleaPersonajes.runtimeconfig.json
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\bin\Debug\net8.0\PeleaPersonajes.dll
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\bin\Debug\net8.0\PeleaPersonajes.pdb
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\obj\Debug\net8.0\PeleaPersonajes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\obj\Debug\net8.0\PeleaPersonajes.AssemblyInfoInputs.cache
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\obj\Debug\net8.0\PeleaPersonajes.AssemblyInfo.cs
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\obj\Debug\net8.0\PeleaPersonajes.csproj.CoreCompileInputs.cache
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\obj\Debug\net8.0\PeleaPersonajes.dll
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\obj\Debug\net8.0\refint\PeleaPersonajes.dll
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\obj\Debug\net8.0\PeleaPersonajes.pdb
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\obj\Debug\net8.0\PeleaPersonajes.genruntimeconfig.cache
+D:\Para Trabajar\RetosMoure\PeleaPersonajes\PeleaPersonajes\obj\Debug\net8.0\ref\PeleaPersonajes.dll
